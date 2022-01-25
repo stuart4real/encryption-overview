@@ -3,6 +3,8 @@ Author: Situ Feng
 
 This is only meant to be used by students who are taking CSC427 LEC9201.
 """
+# Make sure module <tinyec> is installed
+# If the module is missing, try <pip install tinyec>
 
 from tinyec.ec import SubGroup, Curve
 
