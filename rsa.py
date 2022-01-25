@@ -4,6 +4,10 @@ Author: Situ Feng
 It is only meant to be used by students who are taking CSC427 LEC9201.
 """
 
+
+# Make sure module <pycryptodome> in installed
+# If the moduel is missing, try <pip install pycrotodome>
+
 from typing import Any
 from Crypto.PublicKey import RSA
 from Crypto.Cipher import PKCS1_OAEP
