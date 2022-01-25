@@ -9,7 +9,7 @@ Table of Contents:
           <li>Examples of Encryption 🐾</li>
           <li>Motivations behind Homomorphic Encryption 💪</li>
           <li>How does Homomorphic Encryption work 📐</li>
-          <li></li>
+          <li>Future directions 🔎</li>
 </ul>
 
 Authors:  
