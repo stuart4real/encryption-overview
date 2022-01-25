@@ -21,7 +21,7 @@ def generate_keys(seed) -> Any:
 
     # TODO: Generate the key pair with the given seed
     # HINT: Look up RSA.generate()
-    key_pair = RSA.generate(seed)
+    key_pair = None
 
     return key_pair
 
